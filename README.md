@@ -6,7 +6,7 @@ Module 23/24 Project
 ### Overview of the analysis: Explain the purpose of this analysis.
 * In this project we analyze the diabetes.csv which is featured in the Kaggle database. The purpose of this project is to use a machine learning model to analyze and correctly predict whether or not a patient has diabetes or not. In an attempt to find the most accurate model for our data, we used 2 different models, the logistic regression and random forest models. 
 
-* The data points that is taken into consideration are: 
+* The data points that are taken into consideration are: 
     1) pregnancies
     2) glucose
     3) blood pressure
