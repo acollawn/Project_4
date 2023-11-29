@@ -1,0 +1,743 @@
+,Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Actual,Prediction
+0,0,137,40,35,168,43.1,2.288,33,Diabetic,Diabetic
+1,8,181,68,36,495,30.1,0.615,60,Diabetic,Diabetic
+2,8,194,80,0,0,26.1,0.551,67,Non Diabetic,Non Diabetic
+3,7,114,76,17,110,23.8,0.466,31,Non Diabetic,Non Diabetic
+4,1,173,74,0,0,36.8,0.088,38,Diabetic,Diabetic
+5,7,184,84,33,0,35.5,0.355,41,Diabetic,Diabetic
+6,0,145,0,0,0,44.2,0.63,31,Diabetic,Diabetic
+7,5,158,84,41,210,39.4,0.395,29,Diabetic,Diabetic
+8,4,76,62,0,0,34.0,0.391,25,Non Diabetic,Non Diabetic
+9,7,159,64,0,0,27.4,0.294,40,Non Diabetic,Non Diabetic
+10,8,196,76,29,280,37.5,0.605,57,Diabetic,Diabetic
+11,0,137,68,14,148,24.8,0.143,21,Non Diabetic,Non Diabetic
+12,2,146,0,0,0,27.5,0.24,28,Diabetic,Diabetic
+13,5,162,104,0,0,37.7,0.151,52,Diabetic,Diabetic
+14,5,0,80,32,0,41.0,0.346,37,Diabetic,Diabetic
+15,2,127,58,24,275,27.7,1.6,25,Non Diabetic,Non Diabetic
+16,1,109,58,18,116,28.5,0.219,22,Non Diabetic,Non Diabetic
+17,3,182,74,0,0,30.5,0.345,29,Diabetic,Diabetic
+18,0,98,82,15,84,25.2,0.299,22,Non Diabetic,Non Diabetic
+19,1,149,68,29,127,29.3,0.349,42,Diabetic,Diabetic
+20,3,173,82,48,465,38.4,2.137,25,Diabetic,Diabetic
+21,3,128,78,0,0,21.1,0.268,55,Non Diabetic,Non Diabetic
+22,6,99,60,19,54,26.9,0.497,32,Non Diabetic,Non Diabetic
+23,0,125,96,0,0,22.5,0.262,21,Non Diabetic,Non Diabetic
+24,0,114,80,34,285,44.2,0.167,27,Non Diabetic,Non Diabetic
+25,1,88,62,24,44,29.9,0.422,23,Non Diabetic,Non Diabetic
+26,3,124,80,33,130,33.2,0.305,26,Non Diabetic,Non Diabetic
+27,3,81,86,16,66,27.5,0.306,22,Non Diabetic,Non Diabetic
+28,0,102,86,17,105,29.3,0.695,27,Non Diabetic,Non Diabetic
+29,3,116,74,15,105,26.3,0.107,24,Non Diabetic,Non Diabetic
+30,7,136,74,26,135,26.0,0.647,51,Non Diabetic,Non Diabetic
+31,4,99,72,17,0,25.6,0.294,28,Non Diabetic,Non Diabetic
+32,0,117,66,31,188,30.8,0.493,22,Non Diabetic,Non Diabetic
+33,7,142,60,33,190,28.8,0.687,61,Non Diabetic,Non Diabetic
+34,0,161,50,0,0,21.9,0.254,65,Non Diabetic,Non Diabetic
+35,7,147,76,0,0,39.4,0.257,43,Diabetic,Diabetic
+36,2,129,74,26,205,33.2,0.591,25,Non Diabetic,Non Diabetic
+37,9,154,78,30,100,30.9,0.164,45,Non Diabetic,Non Diabetic
+38,3,141,0,0,0,30.0,0.761,27,Diabetic,Diabetic
+39,1,108,60,46,178,35.5,0.415,24,Non Diabetic,Non Diabetic
+40,17,163,72,41,114,40.9,0.817,47,Diabetic,Diabetic
+41,13,145,82,19,110,22.2,0.245,57,Non Diabetic,Non Diabetic
+42,4,123,62,0,0,32.0,0.226,35,Diabetic,Diabetic
+43,1,157,72,21,168,25.6,0.123,24,Non Diabetic,Non Diabetic
+44,2,92,62,28,0,31.6,0.13,24,Non Diabetic,Non Diabetic
+45,4,146,85,27,100,28.9,0.189,27,Non Diabetic,Non Diabetic
+46,3,80,82,31,70,34.2,1.292,27,Diabetic,Diabetic
+47,7,150,78,29,126,35.2,0.692,54,Diabetic,Diabetic
+48,7,179,95,31,0,34.2,0.164,60,Non Diabetic,Non Diabetic
+49,4,114,64,0,0,28.9,0.126,24,Non Diabetic,Non Diabetic
+50,0,117,0,0,0,33.8,0.932,44,Non Diabetic,Non Diabetic
+51,7,97,76,32,91,40.9,0.871,32,Diabetic,Diabetic
+52,5,187,76,27,207,43.6,1.034,53,Diabetic,Diabetic
+53,3,111,56,39,0,30.1,0.557,30,Non Diabetic,Non Diabetic
+54,0,181,88,44,510,43.3,0.222,26,Diabetic,Diabetic
+55,8,91,82,0,0,35.6,0.587,68,Non Diabetic,Non Diabetic
+56,1,116,70,28,0,27.4,0.204,21,Non Diabetic,Non Diabetic
+57,1,105,58,0,0,24.3,0.187,21,Non Diabetic,Non Diabetic
+58,7,94,64,25,79,33.3,0.738,41,Non Diabetic,Non Diabetic
+59,1,96,122,0,0,22.4,0.207,27,Non Diabetic,Non Diabetic
+60,0,179,90,27,0,44.1,0.686,23,Diabetic,Diabetic
+61,2,112,66,22,0,25.0,0.307,24,Non Diabetic,Non Diabetic
+62,6,147,80,0,0,29.5,0.178,50,Diabetic,Diabetic
+63,4,173,70,14,168,29.7,0.361,33,Diabetic,Diabetic
+64,1,117,60,23,106,33.8,0.466,27,Non Diabetic,Non Diabetic
+65,2,110,74,29,125,32.4,0.698,27,Non Diabetic,Non Diabetic
+66,3,96,78,39,0,37.3,0.238,40,Non Diabetic,Non Diabetic
+67,1,108,88,19,0,27.1,0.4,24,Non Diabetic,Non Diabetic
+68,8,120,0,0,0,30.0,0.183,38,Diabetic,Diabetic
+69,2,125,60,20,140,33.8,0.088,31,Non Diabetic,Non Diabetic
+70,3,121,52,0,0,36.0,0.127,25,Diabetic,Diabetic
+71,0,105,64,41,142,41.5,0.173,22,Non Diabetic,Non Diabetic
+72,2,115,64,22,0,30.8,0.421,21,Non Diabetic,Non Diabetic
+73,2,88,58,26,16,28.4,0.766,22,Non Diabetic,Non Diabetic
+74,9,156,86,28,155,34.3,1.189,42,Diabetic,Diabetic
+75,6,105,70,32,68,30.8,0.122,37,Non Diabetic,Non Diabetic
+76,1,87,60,37,75,37.2,0.509,22,Non Diabetic,Non Diabetic
+77,4,123,80,15,176,32.0,0.443,34,Non Diabetic,Non Diabetic
+78,2,75,64,24,55,29.7,0.37,33,Non Diabetic,Non Diabetic
+79,4,99,76,15,51,23.2,0.223,21,Non Diabetic,Non Diabetic
+80,2,108,64,0,0,30.8,0.158,21,Non Diabetic,Non Diabetic
+81,11,136,84,35,130,28.3,0.26,42,Diabetic,Diabetic
+82,4,197,70,39,744,36.7,2.329,31,Non Diabetic,Non Diabetic
+83,6,125,78,31,0,27.6,0.565,49,Diabetic,Diabetic
+84,1,117,88,24,145,34.5,0.403,40,Diabetic,Diabetic
+85,5,115,76,0,0,31.2,0.343,44,Diabetic,Diabetic
+86,2,71,70,27,0,28.0,0.586,22,Non Diabetic,Non Diabetic
+87,13,76,60,0,0,32.8,0.18,41,Non Diabetic,Non Diabetic
+88,8,109,76,39,114,27.9,0.64,31,Diabetic,Diabetic
+89,5,139,64,35,140,28.6,0.411,26,Non Diabetic,Non Diabetic
+90,6,103,72,32,190,37.7,0.324,55,Non Diabetic,Non Diabetic
+91,0,180,90,26,90,36.5,0.314,35,Diabetic,Diabetic
+92,1,111,94,0,0,32.8,0.265,45,Non Diabetic,Non Diabetic
+93,2,122,76,27,200,35.9,0.483,26,Non Diabetic,Non Diabetic
+94,4,147,74,25,293,34.9,0.385,30,Non Diabetic,Non Diabetic
+95,3,193,70,31,0,34.9,0.241,25,Diabetic,Diabetic
+96,7,105,0,0,0,0.0,0.305,24,Non Diabetic,Non Diabetic
+97,1,79,75,30,0,32.0,0.396,22,Non Diabetic,Non Diabetic
+98,2,84,50,23,76,30.4,0.968,21,Non Diabetic,Non Diabetic
+99,0,95,80,45,92,36.5,0.33,26,Non Diabetic,Non Diabetic
+100,0,105,90,0,0,29.6,0.197,46,Non Diabetic,Non Diabetic
+101,7,137,90,41,0,32.0,0.391,39,Non Diabetic,Non Diabetic
+102,4,112,78,40,0,39.4,0.236,38,Non Diabetic,Non Diabetic
+103,1,119,88,41,170,45.3,0.507,26,Non Diabetic,Non Diabetic
+104,2,100,70,52,57,40.5,0.677,25,Non Diabetic,Non Diabetic
+105,1,96,64,27,87,33.2,0.289,21,Non Diabetic,Non Diabetic
+106,2,100,54,28,105,37.8,0.498,24,Non Diabetic,Non Diabetic
+107,4,183,0,0,0,28.4,0.212,36,Diabetic,Diabetic
+108,11,143,94,33,146,36.6,0.254,51,Diabetic,Diabetic
+109,4,132,86,31,0,28.0,0.419,63,Non Diabetic,Non Diabetic
+110,7,159,66,0,0,30.4,0.383,36,Diabetic,Diabetic
+111,3,99,54,19,86,25.6,0.154,24,Non Diabetic,Non Diabetic
+112,1,167,74,17,144,23.4,0.447,33,Diabetic,Diabetic
+113,4,137,84,0,0,31.2,0.252,30,Non Diabetic,Non Diabetic
+114,8,124,76,24,600,28.7,0.687,52,Diabetic,Diabetic
+115,9,112,82,24,0,28.2,1.282,50,Diabetic,Diabetic
+116,1,97,68,21,0,27.2,1.095,22,Non Diabetic,Non Diabetic
+117,0,177,60,29,478,34.6,1.072,21,Diabetic,Diabetic
+118,1,181,78,42,293,40.0,1.258,22,Diabetic,Diabetic
+119,0,119,64,18,92,34.9,0.725,23,Non Diabetic,Non Diabetic
+120,4,95,70,32,0,32.1,0.612,24,Non Diabetic,Non Diabetic
+121,1,111,62,13,182,24.0,0.138,23,Non Diabetic,Non Diabetic
+122,8,100,74,40,215,39.4,0.661,43,Diabetic,Diabetic
+123,0,119,0,0,0,32.4,0.141,24,Diabetic,Diabetic
+124,5,109,62,41,129,35.8,0.514,25,Diabetic,Diabetic
+125,4,92,80,0,0,42.2,0.237,29,Non Diabetic,Non Diabetic
+126,1,109,60,8,182,25.4,0.947,21,Non Diabetic,Non Diabetic
+127,13,106,70,0,0,34.2,0.251,52,Non Diabetic,Non Diabetic
+128,10,129,62,36,0,41.2,0.441,38,Diabetic,Diabetic
+129,1,95,82,25,180,35.0,0.233,43,Diabetic,Diabetic
+130,7,161,86,0,0,30.4,0.165,47,Diabetic,Diabetic
+131,5,99,74,27,0,29.0,0.203,32,Non Diabetic,Non Diabetic
+132,2,105,75,0,0,23.3,0.56,53,Non Diabetic,Non Diabetic
+133,9,122,56,0,0,33.3,1.114,33,Diabetic,Diabetic
+134,1,139,62,41,480,40.7,0.536,21,Non Diabetic,Non Diabetic
+135,2,144,58,33,135,31.6,0.422,25,Diabetic,Diabetic
+136,1,103,80,11,82,19.4,0.491,22,Non Diabetic,Non Diabetic
+137,7,178,84,0,0,39.9,0.331,41,Diabetic,Diabetic
+138,2,146,70,38,360,28.0,0.337,29,Diabetic,Diabetic
+139,5,108,72,43,75,36.1,0.263,33,Non Diabetic,Non Diabetic
+140,5,139,80,35,160,31.6,0.361,25,Diabetic,Diabetic
+141,5,122,86,0,0,34.7,0.29,33,Non Diabetic,Non Diabetic
+142,2,81,60,22,0,27.7,0.29,25,Non Diabetic,Non Diabetic
+143,2,128,64,42,0,40.0,1.101,24,Non Diabetic,Non Diabetic
+144,2,106,56,27,165,29.0,0.426,22,Non Diabetic,Non Diabetic
+145,7,196,90,0,0,39.8,0.451,41,Diabetic,Diabetic
+146,3,112,74,30,0,31.6,0.197,25,Diabetic,Diabetic
+147,1,93,56,11,0,22.5,0.417,22,Non Diabetic,Non Diabetic
+148,1,138,82,0,0,40.1,0.236,28,Non Diabetic,Non Diabetic
+149,0,113,80,16,0,31.0,0.874,21,Non Diabetic,Non Diabetic
+150,1,93,70,31,0,30.4,0.315,23,Non Diabetic,Non Diabetic
+151,0,119,66,27,0,38.8,0.259,22,Non Diabetic,Non Diabetic
+152,6,111,64,39,0,34.2,0.26,24,Non Diabetic,Non Diabetic
+153,4,117,64,27,120,33.2,0.23,24,Non Diabetic,Non Diabetic
+154,1,164,82,43,67,32.8,0.341,50,Non Diabetic,Non Diabetic
+155,6,114,0,0,0,0.0,0.189,26,Non Diabetic,Non Diabetic
+156,1,144,82,46,180,46.1,0.335,46,Diabetic,Diabetic
+157,9,164,84,21,0,30.8,0.831,32,Diabetic,Diabetic
+158,8,99,84,0,0,35.4,0.388,50,Non Diabetic,Non Diabetic
+159,6,125,76,0,0,33.8,0.121,54,Diabetic,Diabetic
+160,2,155,74,17,96,26.6,0.433,27,Diabetic,Diabetic
+161,3,170,64,37,225,34.5,0.356,30,Diabetic,Diabetic
+162,5,110,68,0,0,26.0,0.292,30,Non Diabetic,Non Diabetic
+163,3,106,72,0,0,25.8,0.207,27,Non Diabetic,Non Diabetic
+164,0,94,0,0,0,0.0,0.256,25,Non Diabetic,Non Diabetic
+165,4,127,88,11,155,34.5,0.598,28,Non Diabetic,Non Diabetic
+166,2,90,80,14,55,24.4,0.249,24,Non Diabetic,Non Diabetic
+167,0,117,80,31,53,45.2,0.089,24,Non Diabetic,Non Diabetic
+168,0,162,76,36,0,49.6,0.364,26,Diabetic,Diabetic
+169,1,100,74,12,46,19.5,0.149,28,Non Diabetic,Non Diabetic
+170,1,119,44,47,63,35.5,0.28,25,Non Diabetic,Non Diabetic
+171,3,171,72,33,135,33.3,0.199,24,Diabetic,Diabetic
+172,6,162,62,0,0,24.3,0.178,50,Diabetic,Diabetic
+173,0,128,68,19,180,30.5,1.391,25,Diabetic,Diabetic
+174,10,68,106,23,49,35.5,0.285,47,Non Diabetic,Non Diabetic
+175,5,126,78,27,22,29.6,0.439,40,Non Diabetic,Non Diabetic
+176,9,165,88,0,0,30.4,0.302,49,Diabetic,Diabetic
+177,1,128,48,45,194,40.5,0.613,24,Diabetic,Diabetic
+178,0,165,90,33,680,52.3,0.427,23,Non Diabetic,Non Diabetic
+179,7,187,50,33,392,33.9,0.826,34,Diabetic,Diabetic
+180,6,151,62,31,120,35.5,0.692,28,Non Diabetic,Non Diabetic
+181,1,120,80,48,200,38.9,1.162,41,Non Diabetic,Non Diabetic
+182,4,91,70,32,88,33.1,0.446,22,Non Diabetic,Non Diabetic
+183,2,101,58,17,265,24.2,0.614,23,Non Diabetic,Non Diabetic
+184,1,85,66,29,0,26.6,0.351,31,Non Diabetic,Non Diabetic
+185,1,113,64,35,0,33.6,0.543,21,Diabetic,Diabetic
+186,1,196,76,36,249,36.5,0.875,29,Diabetic,Diabetic
+187,1,83,68,0,0,18.2,0.624,27,Non Diabetic,Non Diabetic
+188,5,106,82,30,0,39.5,0.286,38,Non Diabetic,Non Diabetic
+189,6,102,90,39,0,35.7,0.674,28,Non Diabetic,Non Diabetic
+190,1,143,74,22,61,26.2,0.256,21,Non Diabetic,Non Diabetic
+191,3,87,60,18,0,21.8,0.444,21,Non Diabetic,Non Diabetic
+192,0,146,70,0,0,37.9,0.334,28,Diabetic,Diabetic
+193,8,107,80,0,0,24.6,0.856,34,Non Diabetic,Non Diabetic
+194,0,131,66,40,0,34.3,0.196,22,Diabetic,Diabetic
+195,3,78,70,0,0,32.5,0.27,39,Non Diabetic,Non Diabetic
+196,3,142,80,15,0,32.4,0.2,63,Non Diabetic,Non Diabetic
+197,4,158,78,0,0,32.9,0.803,31,Diabetic,Diabetic
+198,8,183,64,0,0,23.3,0.672,32,Diabetic,Diabetic
+199,3,83,58,31,18,34.3,0.336,25,Non Diabetic,Non Diabetic
+200,0,101,76,0,0,35.7,0.198,26,Non Diabetic,Non Diabetic
+201,7,124,70,33,215,25.5,0.161,37,Non Diabetic,Non Diabetic
+202,0,107,76,0,0,45.3,0.686,24,Non Diabetic,Non Diabetic
+203,1,135,54,0,0,26.7,0.687,62,Non Diabetic,Non Diabetic
+204,1,136,74,50,204,37.4,0.399,24,Non Diabetic,Non Diabetic
+205,7,100,0,0,0,30.0,0.484,32,Diabetic,Diabetic
+206,3,163,70,18,105,31.6,0.268,28,Diabetic,Diabetic
+207,8,126,74,38,75,25.9,0.162,39,Non Diabetic,Non Diabetic
+208,8,100,76,0,0,38.7,0.19,42,Non Diabetic,Non Diabetic
+209,4,151,90,38,0,29.7,0.294,36,Non Diabetic,Non Diabetic
+210,3,102,44,20,94,30.8,0.4,26,Non Diabetic,Non Diabetic
+211,5,116,74,29,0,32.3,0.66,35,Diabetic,Diabetic
+212,1,181,64,30,180,34.1,0.328,38,Diabetic,Diabetic
+213,8,120,78,0,0,25.0,0.409,64,Non Diabetic,Non Diabetic
+214,1,153,82,42,485,40.6,0.687,23,Non Diabetic,Non Diabetic
+215,1,101,50,15,36,24.2,0.526,26,Non Diabetic,Non Diabetic
+216,4,109,64,44,99,34.8,0.905,26,Diabetic,Diabetic
+217,5,73,60,0,0,26.8,0.268,27,Non Diabetic,Non Diabetic
+218,9,184,85,15,0,30.0,1.213,49,Diabetic,Diabetic
+219,1,86,66,52,65,41.3,0.917,29,Non Diabetic,Non Diabetic
+220,0,118,84,47,230,45.8,0.551,31,Diabetic,Diabetic
+221,9,145,88,34,165,30.3,0.771,53,Diabetic,Diabetic
+222,2,99,52,15,94,24.6,0.637,21,Non Diabetic,Non Diabetic
+223,5,147,75,0,0,29.9,0.434,28,Non Diabetic,Non Diabetic
+224,11,111,84,40,0,46.8,0.925,45,Diabetic,Diabetic
+225,3,129,92,49,155,36.4,0.968,32,Diabetic,Diabetic
+226,6,104,74,18,156,29.9,0.722,41,Diabetic,Diabetic
+227,1,79,80,25,37,25.4,0.583,22,Non Diabetic,Non Diabetic
+228,3,187,70,22,200,36.4,0.408,36,Diabetic,Diabetic
+229,0,94,70,27,115,43.5,0.347,21,Non Diabetic,Non Diabetic
+230,0,102,78,40,90,34.5,0.238,24,Non Diabetic,Non Diabetic
+231,10,161,68,23,132,25.5,0.326,47,Diabetic,Diabetic
+232,0,123,72,0,0,36.3,0.258,52,Diabetic,Diabetic
+233,6,107,88,0,0,36.8,0.727,31,Non Diabetic,Non Diabetic
+234,3,122,78,0,0,23.0,0.254,40,Non Diabetic,Non Diabetic
+235,7,125,86,0,0,37.6,0.304,51,Non Diabetic,Non Diabetic
+236,7,152,88,44,0,50.0,0.337,36,Diabetic,Diabetic
+237,5,103,108,37,0,39.2,0.305,65,Non Diabetic,Non Diabetic
+238,2,100,68,25,71,38.5,0.324,26,Non Diabetic,Non Diabetic
+239,10,101,86,37,0,45.6,1.136,38,Diabetic,Diabetic
+240,6,190,92,0,0,35.5,0.278,66,Diabetic,Diabetic
+241,1,80,55,0,0,19.1,0.258,21,Non Diabetic,Non Diabetic
+242,1,97,70,15,0,18.2,0.147,21,Non Diabetic,Non Diabetic
+243,1,0,48,20,0,24.7,0.14,22,Non Diabetic,Non Diabetic
+244,3,158,70,30,328,35.5,0.344,35,Diabetic,Diabetic
+245,3,173,84,33,474,35.7,0.258,22,Diabetic,Diabetic
+246,7,133,84,0,0,40.2,0.696,37,Non Diabetic,Non Diabetic
+247,5,115,98,0,0,52.9,0.209,28,Diabetic,Diabetic
+248,0,180,78,63,14,59.4,2.42,25,Diabetic,Diabetic
+249,1,122,90,51,220,49.7,0.325,31,Diabetic,Diabetic
+250,1,71,62,0,0,21.8,0.416,26,Non Diabetic,Non Diabetic
+251,1,111,86,19,0,30.1,0.143,23,Non Diabetic,Non Diabetic
+252,1,90,62,18,59,25.1,1.268,25,Non Diabetic,Non Diabetic
+253,1,89,24,19,25,27.8,0.559,21,Non Diabetic,Non Diabetic
+254,6,124,72,0,0,27.6,0.368,29,Diabetic,Diabetic
+255,3,132,80,0,0,34.4,0.402,44,Diabetic,Diabetic
+256,1,109,38,18,120,23.1,0.407,26,Non Diabetic,Non Diabetic
+257,5,86,68,28,71,30.2,0.364,24,Non Diabetic,Non Diabetic
+258,2,98,60,17,120,34.7,0.198,22,Non Diabetic,Non Diabetic
+259,1,91,64,24,0,29.2,0.192,21,Non Diabetic,Non Diabetic
+260,3,82,70,0,0,21.1,0.389,25,Non Diabetic,Non Diabetic
+261,0,120,74,18,63,30.5,0.285,26,Non Diabetic,Non Diabetic
+262,6,102,82,0,0,30.8,0.18,36,Diabetic,Diabetic
+263,0,137,84,27,0,27.3,0.231,59,Non Diabetic,Non Diabetic
+264,2,83,66,23,50,32.2,0.497,22,Non Diabetic,Non Diabetic
+265,5,166,72,19,175,25.8,0.587,51,Diabetic,Diabetic
+266,1,122,64,32,156,35.1,0.692,30,Diabetic,Diabetic
+267,1,84,64,23,115,36.9,0.471,28,Non Diabetic,Non Diabetic
+268,3,106,54,21,158,30.9,0.292,24,Non Diabetic,Non Diabetic
+269,0,105,68,22,0,20.0,0.236,22,Non Diabetic,Non Diabetic
+270,9,112,82,32,175,34.2,0.26,36,Diabetic,Diabetic
+271,5,77,82,41,42,35.8,0.156,35,Non Diabetic,Non Diabetic
+272,1,87,78,27,32,34.6,0.101,22,Non Diabetic,Non Diabetic
+273,8,120,86,0,0,28.4,0.259,22,Diabetic,Diabetic
+274,10,168,74,0,0,38.0,0.537,34,Diabetic,Diabetic
+275,1,114,66,36,200,38.1,0.289,21,Non Diabetic,Non Diabetic
+276,1,0,68,35,0,32.0,0.389,22,Non Diabetic,Non Diabetic
+277,6,154,78,41,140,46.1,0.571,27,Non Diabetic,Non Diabetic
+278,0,107,62,30,74,36.6,0.757,25,Diabetic,Diabetic
+279,2,95,54,14,88,26.1,0.748,22,Non Diabetic,Non Diabetic
+280,1,107,68,19,0,26.5,0.165,24,Non Diabetic,Non Diabetic
+281,1,124,74,36,0,27.8,0.1,30,Non Diabetic,Non Diabetic
+282,0,106,70,37,148,39.4,0.605,22,Non Diabetic,Non Diabetic
+283,6,134,80,37,370,46.2,0.238,46,Diabetic,Diabetic
+284,10,125,70,26,115,31.1,0.205,41,Diabetic,Diabetic
+285,4,154,72,29,126,31.3,0.338,37,Non Diabetic,Non Diabetic
+286,4,110,66,0,0,31.9,0.471,29,Non Diabetic,Non Diabetic
+287,4,142,86,0,0,44.0,0.645,22,Diabetic,Diabetic
+288,2,112,68,22,94,34.1,0.315,26,Non Diabetic,Non Diabetic
+289,1,112,72,30,176,34.4,0.528,25,Non Diabetic,Non Diabetic
+290,0,138,60,35,167,34.6,0.534,21,Diabetic,Diabetic
+291,5,104,74,0,0,28.8,0.153,48,Non Diabetic,Non Diabetic
+292,1,97,70,40,0,38.1,0.218,30,Non Diabetic,Non Diabetic
+293,10,122,78,31,0,27.6,0.512,45,Non Diabetic,Non Diabetic
+294,0,100,88,60,110,46.8,0.962,31,Non Diabetic,Non Diabetic
+295,7,83,78,26,71,29.3,0.767,36,Non Diabetic,Non Diabetic
+296,1,125,50,40,167,33.3,0.962,28,Diabetic,Diabetic
+297,6,119,50,22,176,27.1,1.318,33,Diabetic,Diabetic
+298,6,109,60,27,0,25.0,0.206,27,Non Diabetic,Non Diabetic
+299,6,105,80,28,0,32.5,0.878,26,Non Diabetic,Non Diabetic
+300,7,142,90,24,480,30.4,0.128,43,Diabetic,Diabetic
+301,0,189,104,25,0,34.3,0.435,41,Diabetic,Diabetic
+302,0,118,64,23,89,0.0,1.731,21,Non Diabetic,Non Diabetic
+303,9,102,76,37,0,32.9,0.665,46,Diabetic,Diabetic
+304,0,93,60,0,0,35.3,0.263,25,Non Diabetic,Non Diabetic
+305,3,123,100,35,240,57.3,0.88,22,Non Diabetic,Non Diabetic
+306,3,102,74,0,0,29.5,0.121,32,Non Diabetic,Non Diabetic
+307,10,108,66,0,0,32.4,0.272,42,Diabetic,Diabetic
+308,6,114,88,0,0,27.8,0.247,66,Non Diabetic,Non Diabetic
+309,9,123,70,44,94,33.1,0.374,40,Non Diabetic,Non Diabetic
+310,1,128,88,39,110,36.5,1.057,37,Diabetic,Diabetic
+311,7,133,88,15,155,32.4,0.262,37,Non Diabetic,Non Diabetic
+312,6,148,72,35,0,33.6,0.627,50,Diabetic,Diabetic
+313,5,88,78,30,0,27.6,0.258,37,Non Diabetic,Non Diabetic
+314,4,110,76,20,100,28.4,0.118,27,Non Diabetic,Non Diabetic
+315,3,99,80,11,64,19.3,0.284,30,Non Diabetic,Non Diabetic
+316,0,86,68,32,0,35.8,0.238,25,Non Diabetic,Non Diabetic
+317,2,129,84,0,0,28.0,0.284,27,Non Diabetic,Non Diabetic
+318,0,179,50,36,159,37.8,0.455,22,Diabetic,Diabetic
+319,2,112,75,32,0,35.7,0.148,21,Non Diabetic,Non Diabetic
+320,9,72,78,25,0,31.6,0.28,38,Non Diabetic,Non Diabetic
+321,2,90,60,0,0,23.5,0.191,25,Non Diabetic,Non Diabetic
+322,9,134,74,33,60,25.9,0.46,81,Non Diabetic,Non Diabetic
+323,4,110,92,0,0,37.6,0.191,30,Non Diabetic,Non Diabetic
+324,10,101,76,48,180,32.9,0.171,63,Non Diabetic,Non Diabetic
+325,3,129,64,29,115,26.4,0.219,28,Diabetic,Diabetic
+326,2,155,52,27,540,38.7,0.24,25,Diabetic,Diabetic
+327,3,108,62,24,0,26.0,0.223,25,Non Diabetic,Non Diabetic
+328,5,85,74,22,0,29.0,1.224,32,Diabetic,Diabetic
+329,2,102,86,36,120,45.5,0.127,23,Diabetic,Diabetic
+330,3,191,68,15,130,30.9,0.299,34,Non Diabetic,Non Diabetic
+331,10,162,84,0,0,27.7,0.182,54,Non Diabetic,Non Diabetic
+332,6,144,72,27,228,33.9,0.255,40,Non Diabetic,Non Diabetic
+333,3,130,78,23,79,28.4,0.323,34,Diabetic,Diabetic
+334,5,95,72,33,0,37.7,0.37,27,Non Diabetic,Non Diabetic
+335,0,105,84,0,0,27.9,0.741,62,Diabetic,Diabetic
+336,12,140,85,33,0,37.4,0.244,41,Non Diabetic,Non Diabetic
+337,11,135,0,0,0,52.3,0.578,40,Diabetic,Diabetic
+338,4,184,78,39,277,37.0,0.264,31,Diabetic,Diabetic
+339,0,84,82,31,125,38.2,0.233,23,Non Diabetic,Non Diabetic
+340,10,90,85,32,0,34.9,0.825,56,Diabetic,Diabetic
+341,4,118,70,0,0,44.5,0.904,26,Non Diabetic,Non Diabetic
+342,1,99,72,30,18,38.6,0.412,21,Non Diabetic,Non Diabetic
+343,0,132,78,0,0,32.4,0.393,21,Non Diabetic,Non Diabetic
+344,6,92,62,32,126,32.0,0.085,46,Non Diabetic,Non Diabetic
+345,5,78,48,0,0,33.7,0.654,25,Non Diabetic,Non Diabetic
+346,7,107,74,0,0,29.6,0.254,31,Diabetic,Diabetic
+347,8,110,76,0,0,27.8,0.237,58,Non Diabetic,Non Diabetic
+348,1,88,78,29,76,32.0,0.365,29,Non Diabetic,Non Diabetic
+349,4,111,72,47,207,37.1,1.39,56,Diabetic,Diabetic
+350,2,117,90,19,71,25.2,0.313,21,Non Diabetic,Non Diabetic
+351,4,156,75,0,0,48.3,0.238,32,Diabetic,Diabetic
+352,1,189,60,23,846,30.1,0.398,59,Diabetic,Diabetic
+353,4,103,60,33,192,24.0,0.966,33,Non Diabetic,Non Diabetic
+354,0,188,82,14,185,32.0,0.682,22,Diabetic,Diabetic
+355,4,132,0,0,0,32.9,0.302,23,Diabetic,Diabetic
+356,2,122,60,18,106,29.8,0.717,22,Non Diabetic,Non Diabetic
+357,1,125,70,24,110,24.3,0.221,25,Non Diabetic,Non Diabetic
+358,0,113,76,0,0,33.3,0.278,23,Diabetic,Diabetic
+359,5,189,64,33,325,31.2,0.583,29,Diabetic,Diabetic
+360,8,179,72,42,130,32.7,0.719,36,Diabetic,Diabetic
+361,10,115,0,0,0,0.0,0.261,30,Diabetic,Diabetic
+362,1,97,66,15,140,23.2,0.487,22,Non Diabetic,Non Diabetic
+363,7,109,80,31,0,35.9,1.127,43,Diabetic,Diabetic
+364,2,119,0,0,0,19.6,0.832,72,Non Diabetic,Non Diabetic
+365,4,129,60,12,231,27.5,0.527,31,Non Diabetic,Non Diabetic
+366,3,158,64,13,387,31.2,0.295,24,Non Diabetic,Non Diabetic
+367,8,84,74,31,0,38.3,0.457,39,Non Diabetic,Non Diabetic
+368,9,124,70,33,402,35.4,0.282,34,Non Diabetic,Non Diabetic
+369,0,198,66,32,274,41.3,0.502,28,Diabetic,Diabetic
+370,0,129,110,46,130,67.1,0.319,26,Diabetic,Diabetic
+371,0,147,85,54,0,42.8,0.375,24,Non Diabetic,Non Diabetic
+372,6,117,96,0,0,28.7,0.157,30,Non Diabetic,Non Diabetic
+373,4,117,62,12,0,29.7,0.38,30,Diabetic,Diabetic
+374,10,92,62,0,0,25.9,0.167,31,Non Diabetic,Non Diabetic
+375,1,90,68,8,0,24.5,1.138,36,Non Diabetic,Non Diabetic
+376,1,140,74,26,180,24.1,0.828,23,Non Diabetic,Non Diabetic
+377,1,130,60,23,170,28.6,0.692,21,Non Diabetic,Non Diabetic
+378,7,114,64,0,0,27.4,0.732,34,Diabetic,Diabetic
+379,1,90,62,12,43,27.2,0.58,24,Non Diabetic,Non Diabetic
+380,0,125,68,0,0,24.7,0.206,21,Non Diabetic,Non Diabetic
+381,10,139,80,0,0,27.1,1.441,57,Non Diabetic,Non Diabetic
+382,9,91,68,0,0,24.2,0.2,58,Non Diabetic,Non Diabetic
+383,4,97,60,23,0,28.2,0.443,22,Non Diabetic,Non Diabetic
+384,4,144,82,32,0,38.5,0.554,37,Diabetic,Diabetic
+385,1,128,98,41,58,32.0,1.321,33,Diabetic,Diabetic
+386,4,154,62,31,284,32.8,0.237,23,Non Diabetic,Non Diabetic
+387,5,123,74,40,77,34.1,0.269,28,Non Diabetic,Non Diabetic
+388,0,101,64,17,0,21.0,0.252,21,Non Diabetic,Non Diabetic
+389,0,111,65,0,0,24.6,0.66,31,Non Diabetic,Non Diabetic
+390,6,85,78,0,0,31.2,0.382,42,Non Diabetic,Non Diabetic
+391,5,116,74,0,0,25.6,0.201,30,Non Diabetic,Non Diabetic
+392,8,176,90,34,300,33.7,0.467,58,Diabetic,Diabetic
+393,0,126,86,27,120,27.4,0.515,21,Non Diabetic,Non Diabetic
+394,7,181,84,21,192,35.9,0.586,51,Diabetic,Diabetic
+395,6,195,70,0,0,30.9,0.328,31,Diabetic,Diabetic
+396,0,141,0,0,0,42.4,0.205,29,Diabetic,Diabetic
+397,3,158,76,36,245,31.6,0.851,28,Diabetic,Diabetic
+398,2,129,0,0,0,38.5,0.304,41,Non Diabetic,Non Diabetic
+399,1,95,60,18,58,23.9,0.26,22,Non Diabetic,Non Diabetic
+400,2,128,78,37,182,43.3,1.224,31,Diabetic,Diabetic
+401,9,57,80,37,0,32.8,0.096,41,Non Diabetic,Non Diabetic
+402,5,88,66,21,23,24.4,0.342,30,Non Diabetic,Non Diabetic
+403,1,180,0,0,0,43.3,0.282,41,Diabetic,Diabetic
+404,5,114,74,0,0,24.9,0.744,57,Non Diabetic,Non Diabetic
+405,13,158,114,0,0,42.3,0.257,44,Diabetic,Diabetic
+406,2,130,96,0,0,22.6,0.268,21,Non Diabetic,Non Diabetic
+407,1,81,72,18,40,26.6,0.283,24,Non Diabetic,Non Diabetic
+408,2,108,62,10,278,25.3,0.881,22,Non Diabetic,Non Diabetic
+409,6,123,72,45,230,33.6,0.733,34,Non Diabetic,Non Diabetic
+410,2,81,72,15,76,30.1,0.547,25,Non Diabetic,Non Diabetic
+411,5,155,84,44,545,38.7,0.619,34,Non Diabetic,Non Diabetic
+412,2,122,70,27,0,36.8,0.34,27,Non Diabetic,Non Diabetic
+413,2,91,62,0,0,27.3,0.525,22,Non Diabetic,Non Diabetic
+414,9,89,62,0,0,22.5,0.142,33,Non Diabetic,Non Diabetic
+415,6,92,92,0,0,19.9,0.188,28,Non Diabetic,Non Diabetic
+416,10,75,82,0,0,33.3,0.263,38,Non Diabetic,Non Diabetic
+417,3,99,62,19,74,21.8,0.279,26,Non Diabetic,Non Diabetic
+418,4,116,72,12,87,22.1,0.463,37,Non Diabetic,Non Diabetic
+419,5,97,76,27,0,35.6,0.378,52,Diabetic,Diabetic
+420,4,148,60,27,318,30.9,0.15,29,Diabetic,Diabetic
+421,3,176,86,27,156,33.3,1.154,52,Diabetic,Diabetic
+422,12,106,80,0,0,23.6,0.137,44,Non Diabetic,Non Diabetic
+423,2,105,80,45,191,33.7,0.711,29,Diabetic,Diabetic
+424,3,113,44,13,0,22.4,0.14,22,Non Diabetic,Non Diabetic
+425,6,137,61,0,0,24.2,0.151,55,Non Diabetic,Non Diabetic
+426,5,128,80,0,0,34.6,0.144,45,Non Diabetic,Non Diabetic
+427,0,140,65,26,130,42.6,0.431,24,Diabetic,Diabetic
+428,1,79,60,42,48,43.5,0.678,23,Non Diabetic,Non Diabetic
+429,4,144,58,28,140,29.5,0.287,37,Non Diabetic,Non Diabetic
+430,2,112,86,42,160,38.4,0.246,28,Non Diabetic,Non Diabetic
+431,1,106,70,28,135,34.2,0.142,22,Non Diabetic,Non Diabetic
+432,5,136,84,41,88,35.0,0.286,35,Diabetic,Diabetic
+433,13,152,90,33,29,26.8,0.731,43,Diabetic,Diabetic
+434,6,87,80,0,0,23.2,0.084,32,Non Diabetic,Non Diabetic
+435,0,93,100,39,72,43.4,1.021,35,Non Diabetic,Non Diabetic
+436,0,121,66,30,165,34.3,0.203,33,Diabetic,Diabetic
+437,4,114,65,0,0,21.9,0.432,37,Non Diabetic,Non Diabetic
+438,6,166,74,0,0,26.6,0.304,66,Non Diabetic,Non Diabetic
+439,10,129,76,28,122,35.9,0.28,39,Non Diabetic,Non Diabetic
+440,4,171,72,0,0,43.6,0.479,26,Diabetic,Diabetic
+441,9,152,78,34,171,34.2,0.893,33,Diabetic,Diabetic
+442,6,98,58,33,190,34.0,0.43,43,Non Diabetic,Non Diabetic
+443,6,125,68,30,120,30.0,0.464,32,Non Diabetic,Non Diabetic
+444,2,90,70,17,0,27.3,0.085,22,Non Diabetic,Non Diabetic
+445,0,108,68,20,0,27.3,0.787,32,Non Diabetic,Non Diabetic
+446,0,152,82,39,272,41.5,0.27,27,Non Diabetic,Non Diabetic
+447,4,83,86,19,0,29.3,0.317,34,Non Diabetic,Non Diabetic
+448,2,127,46,21,335,34.4,0.176,22,Non Diabetic,Non Diabetic
+449,3,111,58,31,44,29.5,0.43,22,Non Diabetic,Non Diabetic
+450,0,67,76,0,0,45.3,0.194,46,Non Diabetic,Non Diabetic
+451,0,109,88,30,0,32.5,0.855,38,Diabetic,Diabetic
+452,3,174,58,22,194,32.9,0.593,36,Diabetic,Diabetic
+453,9,120,72,22,56,20.8,0.733,48,Non Diabetic,Non Diabetic
+454,2,83,65,28,66,36.8,0.629,24,Non Diabetic,Non Diabetic
+455,1,107,50,19,0,28.3,0.181,29,Non Diabetic,Non Diabetic
+456,11,127,106,0,0,39.0,0.19,51,Non Diabetic,Non Diabetic
+457,1,100,66,15,56,23.6,0.666,26,Non Diabetic,Non Diabetic
+458,2,112,78,50,140,39.4,0.175,24,Non Diabetic,Non Diabetic
+459,2,197,70,45,543,30.5,0.158,53,Diabetic,Diabetic
+460,3,100,68,23,81,31.6,0.949,28,Non Diabetic,Non Diabetic
+461,0,107,60,25,0,26.4,0.133,23,Non Diabetic,Non Diabetic
+462,3,111,62,0,0,22.6,0.142,21,Non Diabetic,Non Diabetic
+463,0,167,0,0,0,32.3,0.839,30,Diabetic,Diabetic
+464,10,122,68,0,0,31.2,0.258,41,Non Diabetic,Non Diabetic
+465,6,194,78,0,0,23.5,0.129,59,Diabetic,Diabetic
+466,2,101,58,35,90,21.8,0.155,22,Non Diabetic,Non Diabetic
+467,3,162,52,38,0,37.2,0.652,24,Diabetic,Diabetic
+468,1,81,74,41,57,46.3,1.096,32,Non Diabetic,Non Diabetic
+469,9,140,94,0,0,32.7,0.734,45,Diabetic,Diabetic
+470,9,106,52,0,0,31.2,0.38,42,Non Diabetic,Non Diabetic
+471,7,168,88,42,321,38.2,0.787,40,Diabetic,Diabetic
+472,0,141,84,26,0,32.4,0.433,22,Non Diabetic,Non Diabetic
+473,1,77,56,30,56,33.3,1.251,24,Non Diabetic,Non Diabetic
+474,4,189,110,31,0,28.5,0.68,37,Non Diabetic,Non Diabetic
+475,0,124,56,13,105,21.8,0.452,21,Non Diabetic,Non Diabetic
+476,4,129,86,20,270,35.1,0.231,23,Non Diabetic,Non Diabetic
+477,4,95,60,32,0,35.4,0.284,28,Non Diabetic,Non Diabetic
+478,12,84,72,31,0,29.7,0.297,46,Diabetic,Diabetic
+479,2,157,74,35,440,39.4,0.134,30,Non Diabetic,Non Diabetic
+480,4,95,64,0,0,32.0,0.161,31,Diabetic,Diabetic
+481,4,99,68,38,0,32.8,0.145,33,Non Diabetic,Non Diabetic
+482,6,134,70,23,130,35.4,0.542,29,Diabetic,Diabetic
+483,9,130,70,0,0,34.2,0.652,45,Diabetic,Diabetic
+484,5,132,80,0,0,26.8,0.186,69,Non Diabetic,Non Diabetic
+485,9,145,80,46,130,37.9,0.637,40,Diabetic,Diabetic
+486,11,138,76,0,0,33.2,0.42,35,Non Diabetic,Non Diabetic
+487,0,91,80,0,0,32.4,0.601,27,Non Diabetic,Non Diabetic
+488,1,119,54,13,50,22.3,0.205,24,Non Diabetic,Non Diabetic
+489,7,129,68,49,125,38.5,0.439,43,Diabetic,Diabetic
+490,2,107,74,30,100,33.6,0.404,23,Non Diabetic,Non Diabetic
+491,8,188,78,0,0,47.9,0.137,43,Diabetic,Diabetic
+492,8,95,72,0,0,36.8,0.485,57,Non Diabetic,Non Diabetic
+493,8,167,106,46,231,37.6,0.165,43,Diabetic,Diabetic
+494,1,95,74,21,73,25.9,0.673,36,Non Diabetic,Non Diabetic
+495,3,74,68,28,45,29.7,0.293,23,Non Diabetic,Non Diabetic
+496,4,90,0,0,0,28.0,0.61,31,Non Diabetic,Non Diabetic
+497,2,96,68,13,49,21.1,0.647,26,Non Diabetic,Non Diabetic
+498,4,131,68,21,166,33.1,0.16,28,Non Diabetic,Non Diabetic
+499,9,119,80,35,0,29.0,0.263,29,Diabetic,Diabetic
+500,3,115,66,39,140,38.1,0.15,28,Non Diabetic,Non Diabetic
+501,0,97,64,36,100,36.8,0.6,25,Non Diabetic,Non Diabetic
+502,1,91,54,25,100,25.2,0.234,23,Non Diabetic,Non Diabetic
+503,2,89,90,30,0,33.5,0.292,42,Non Diabetic,Non Diabetic
+504,6,115,60,39,0,33.7,0.245,40,Diabetic,Diabetic
+505,0,95,85,25,36,37.4,0.247,24,Diabetic,Diabetic
+506,2,74,0,0,0,0.0,0.102,22,Non Diabetic,Non Diabetic
+507,4,85,58,22,49,27.8,0.306,28,Non Diabetic,Non Diabetic
+508,5,130,82,0,0,39.1,0.956,37,Diabetic,Diabetic
+509,13,126,90,0,0,43.4,0.583,42,Diabetic,Diabetic
+510,5,137,108,0,0,48.8,0.227,37,Diabetic,Diabetic
+511,0,102,52,0,0,25.1,0.078,21,Non Diabetic,Non Diabetic
+512,1,168,88,29,0,35.0,0.905,52,Diabetic,Diabetic
+513,3,173,78,39,185,33.8,0.97,31,Diabetic,Diabetic
+514,5,136,82,0,0,0.0,0.64,69,Non Diabetic,Non Diabetic
+515,1,112,80,45,132,34.8,0.217,24,Non Diabetic,Non Diabetic
+516,0,104,64,37,64,33.6,0.51,22,Diabetic,Diabetic
+517,4,145,82,18,0,32.5,0.235,70,Diabetic,Diabetic
+518,0,134,58,20,291,26.4,0.352,21,Non Diabetic,Non Diabetic
+519,10,111,70,27,0,27.5,0.141,40,Diabetic,Diabetic
+520,2,108,52,26,63,32.5,0.318,22,Non Diabetic,Non Diabetic
+521,3,148,66,25,0,32.5,0.256,22,Non Diabetic,Non Diabetic
+522,0,102,64,46,78,40.6,0.496,21,Non Diabetic,Non Diabetic
+523,12,88,74,40,54,35.3,0.378,48,Non Diabetic,Non Diabetic
+524,11,85,74,0,0,30.1,0.3,35,Non Diabetic,Non Diabetic
+525,1,100,66,29,196,32.0,0.444,42,Non Diabetic,Non Diabetic
+526,1,143,86,30,330,30.1,0.892,23,Non Diabetic,Non Diabetic
+527,0,126,84,29,215,30.7,0.52,24,Non Diabetic,Non Diabetic
+528,3,61,82,28,0,34.4,0.243,46,Non Diabetic,Non Diabetic
+529,12,92,62,7,258,27.6,0.926,44,Diabetic,Diabetic
+530,0,123,88,37,0,35.2,0.197,29,Non Diabetic,Non Diabetic
+531,15,136,70,32,110,37.1,0.153,43,Diabetic,Diabetic
+532,1,71,48,18,76,20.4,0.323,22,Non Diabetic,Non Diabetic
+533,2,84,0,0,0,0.0,0.304,21,Non Diabetic,Non Diabetic
+534,7,106,60,24,0,26.5,0.296,29,Diabetic,Diabetic
+535,1,0,74,20,23,27.7,0.299,21,Non Diabetic,Non Diabetic
+536,7,62,78,0,0,32.6,0.391,41,Non Diabetic,Non Diabetic
+537,3,150,76,0,0,21.0,0.207,37,Non Diabetic,Non Diabetic
+538,3,120,70,30,135,42.9,0.452,30,Non Diabetic,Non Diabetic
+539,1,124,60,32,0,35.8,0.514,21,Non Diabetic,Non Diabetic
+540,1,130,70,13,105,25.9,0.472,22,Non Diabetic,Non Diabetic
+541,0,124,70,20,0,27.4,0.254,36,Diabetic,Diabetic
+542,0,102,75,23,0,0.0,0.572,21,Non Diabetic,Non Diabetic
+543,0,146,82,0,0,40.5,1.781,44,Non Diabetic,Non Diabetic
+544,2,108,80,0,0,27.0,0.259,52,Diabetic,Diabetic
+545,1,151,60,0,0,26.1,0.179,22,Non Diabetic,Non Diabetic
+546,2,100,64,23,0,29.7,0.368,21,Non Diabetic,Non Diabetic
+547,13,153,88,37,140,40.6,1.174,39,Non Diabetic,Non Diabetic
+548,12,100,84,33,105,30.0,0.488,46,Non Diabetic,Non Diabetic
+549,0,73,0,0,0,21.1,0.342,25,Non Diabetic,Non Diabetic
+550,1,143,84,23,310,42.4,1.076,22,Non Diabetic,Non Diabetic
+551,10,133,68,0,0,27.0,0.245,36,Non Diabetic,Non Diabetic
+552,2,88,74,19,53,29.0,0.229,22,Non Diabetic,Non Diabetic
+553,0,101,62,0,0,21.9,0.336,25,Non Diabetic,Non Diabetic
+554,7,136,90,0,0,29.9,0.21,50,Non Diabetic,Non Diabetic
+555,1,95,66,13,38,19.6,0.334,25,Non Diabetic,Non Diabetic
+556,2,90,68,42,0,38.2,0.503,27,Diabetic,Diabetic
+557,1,89,66,23,94,28.1,0.167,21,Non Diabetic,Non Diabetic
+558,11,138,74,26,144,36.1,0.557,50,Diabetic,Diabetic
+559,13,106,72,54,0,36.6,0.178,45,Non Diabetic,Non Diabetic
+560,5,147,78,0,0,33.7,0.218,65,Non Diabetic,Non Diabetic
+561,9,164,78,0,0,32.8,0.148,45,Diabetic,Diabetic
+562,9,171,110,24,240,45.4,0.721,54,Diabetic,Diabetic
+563,2,111,60,0,0,26.2,0.343,23,Non Diabetic,Non Diabetic
+564,3,125,58,0,0,31.6,0.151,24,Non Diabetic,Non Diabetic
+565,0,131,0,0,0,43.2,0.27,26,Diabetic,Diabetic
+566,4,146,92,0,0,31.2,0.539,61,Diabetic,Diabetic
+567,5,168,64,0,0,32.9,0.135,41,Diabetic,Diabetic
+568,5,124,74,0,0,34.0,0.22,38,Diabetic,Diabetic
+569,3,128,72,25,190,32.4,0.549,27,Diabetic,Diabetic
+570,3,169,74,19,125,29.9,0.268,31,Diabetic,Diabetic
+571,6,80,66,30,0,26.2,0.313,41,Non Diabetic,Non Diabetic
+572,1,126,56,29,152,28.7,0.801,21,Non Diabetic,Non Diabetic
+573,3,180,64,25,70,34.0,0.271,26,Non Diabetic,Non Diabetic
+574,1,144,82,40,0,41.3,0.607,28,Non Diabetic,Non Diabetic
+575,2,93,64,32,160,38.0,0.674,23,Diabetic,Diabetic
+576,7,159,66,0,0,30.4,0.383,36,Diabetic,Diabetic
+577,4,117,62,12,0,29.7,0.38,30,Diabetic,Diabetic
+578,4,158,78,0,0,32.9,0.803,31,Diabetic,Diabetic
+579,7,109,80,31,0,35.9,1.127,43,Diabetic,Diabetic
+580,3,169,74,19,125,29.9,0.268,31,Diabetic,Diabetic
+581,0,113,76,0,0,33.3,0.278,23,Diabetic,Diabetic
+582,9,184,85,15,0,30.0,1.213,49,Diabetic,Diabetic
+583,0,124,70,20,0,27.4,0.254,36,Diabetic,Diabetic
+584,8,176,90,34,300,33.7,0.467,58,Diabetic,Diabetic
+585,4,156,75,0,0,48.3,0.238,32,Diabetic,Diabetic
+586,2,93,64,32,160,38.0,0.674,23,Diabetic,Diabetic
+587,0,131,66,40,0,34.3,0.196,22,Diabetic,Diabetic
+588,5,189,64,33,325,31.2,0.583,29,Diabetic,Diabetic
+589,8,120,0,0,0,30.0,0.183,38,Diabetic,Diabetic
+590,9,119,80,35,0,29.0,0.263,29,Diabetic,Diabetic
+591,5,187,76,27,207,43.6,1.034,53,Diabetic,Diabetic
+592,9,112,82,32,175,34.2,0.26,36,Diabetic,Diabetic
+593,6,195,70,0,0,30.9,0.328,31,Diabetic,Diabetic
+594,0,129,110,46,130,67.1,0.319,26,Diabetic,Diabetic
+595,0,140,65,26,130,42.6,0.431,24,Diabetic,Diabetic
+596,5,136,84,41,88,35.0,0.286,35,Diabetic,Diabetic
+597,4,144,82,32,0,38.5,0.554,37,Diabetic,Diabetic
+598,2,144,58,33,135,31.6,0.422,25,Diabetic,Diabetic
+599,1,113,64,35,0,33.6,0.543,21,Diabetic,Diabetic
+600,6,124,72,0,0,27.6,0.368,29,Diabetic,Diabetic
+601,10,161,68,23,132,25.5,0.326,47,Diabetic,Diabetic
+602,7,114,64,0,0,27.4,0.732,34,Diabetic,Diabetic
+603,7,109,80,31,0,35.9,1.127,43,Diabetic,Diabetic
+604,2,146,0,0,0,27.5,0.24,28,Diabetic,Diabetic
+605,6,162,62,0,0,24.3,0.178,50,Diabetic,Diabetic
+606,0,162,76,36,0,49.6,0.364,26,Diabetic,Diabetic
+607,0,179,90,27,0,44.1,0.686,23,Diabetic,Diabetic
+608,9,164,84,21,0,30.8,0.831,32,Diabetic,Diabetic
+609,8,181,68,36,495,30.1,0.615,60,Diabetic,Diabetic
+610,4,111,72,47,207,37.1,1.39,56,Diabetic,Diabetic
+611,3,170,64,37,225,34.5,0.356,30,Diabetic,Diabetic
+612,5,162,104,0,0,37.7,0.151,52,Diabetic,Diabetic
+613,7,114,64,0,0,27.4,0.732,34,Diabetic,Diabetic
+614,1,128,88,39,110,36.5,1.057,37,Diabetic,Diabetic
+615,7,129,68,49,125,38.5,0.439,43,Diabetic,Diabetic
+616,2,102,86,36,120,45.5,0.127,23,Diabetic,Diabetic
+617,5,168,64,0,0,32.9,0.135,41,Diabetic,Diabetic
+618,1,117,88,24,145,34.5,0.403,40,Diabetic,Diabetic
+619,0,131,66,40,0,34.3,0.196,22,Diabetic,Diabetic
+620,0,188,82,14,185,32.0,0.682,22,Diabetic,Diabetic
+621,0,131,0,0,0,43.2,0.27,26,Diabetic,Diabetic
+622,2,128,78,37,182,43.3,1.224,31,Diabetic,Diabetic
+623,9,122,56,0,0,33.3,1.114,33,Diabetic,Diabetic
+624,9,164,84,21,0,30.8,0.831,32,Diabetic,Diabetic
+625,7,184,84,33,0,35.5,0.355,41,Diabetic,Diabetic
+626,9,164,78,0,0,32.8,0.148,45,Diabetic,Diabetic
+627,4,173,70,14,168,29.7,0.361,33,Diabetic,Diabetic
+628,8,100,74,40,215,39.4,0.661,43,Diabetic,Diabetic
+629,5,116,74,29,0,32.3,0.66,35,Diabetic,Diabetic
+630,3,121,52,0,0,36.0,0.127,25,Diabetic,Diabetic
+631,2,146,70,38,360,28.0,0.337,29,Diabetic,Diabetic
+632,0,118,84,47,230,45.8,0.551,31,Diabetic,Diabetic
+633,1,125,50,40,167,33.3,0.962,28,Diabetic,Diabetic
+634,1,128,88,39,110,36.5,1.057,37,Diabetic,Diabetic
+635,0,177,60,29,478,34.6,1.072,21,Diabetic,Diabetic
+636,17,163,72,41,114,40.9,0.817,47,Diabetic,Diabetic
+637,0,128,68,19,180,30.5,1.391,25,Diabetic,Diabetic
+638,9,164,78,0,0,32.8,0.148,45,Diabetic,Diabetic
+639,8,120,0,0,0,30.0,0.183,38,Diabetic,Diabetic
+640,7,142,90,24,480,30.4,0.128,43,Diabetic,Diabetic
+641,8,179,72,42,130,32.7,0.719,36,Diabetic,Diabetic
+642,3,121,52,0,0,36.0,0.127,25,Diabetic,Diabetic
+643,4,148,60,27,318,30.9,0.15,29,Diabetic,Diabetic
+644,0,107,62,30,74,36.6,0.757,25,Diabetic,Diabetic
+645,0,179,90,27,0,44.1,0.686,23,Diabetic,Diabetic
+646,5,0,80,32,0,41.0,0.346,37,Diabetic,Diabetic
+647,11,138,74,26,144,36.1,0.557,50,Diabetic,Diabetic
+648,10,90,85,32,0,34.9,0.825,56,Diabetic,Diabetic
+649,6,147,80,0,0,29.5,0.178,50,Diabetic,Diabetic
+650,4,184,78,39,277,37.0,0.264,31,Diabetic,Diabetic
+651,1,122,64,32,156,35.1,0.692,30,Diabetic,Diabetic
+652,2,105,80,45,191,33.7,0.711,29,Diabetic,Diabetic
+653,0,167,0,0,0,32.3,0.839,30,Diabetic,Diabetic
+654,9,164,84,21,0,30.8,0.831,32,Diabetic,Diabetic
+655,3,129,92,49,155,36.4,0.968,32,Diabetic,Diabetic
+656,6,194,78,0,0,23.5,0.129,59,Diabetic,Diabetic
+657,10,115,0,0,0,0.0,0.261,30,Diabetic,Diabetic
+658,8,109,76,39,114,27.9,0.64,31,Diabetic,Diabetic
+659,0,109,88,30,0,32.5,0.855,38,Diabetic,Diabetic
+660,3,182,74,0,0,30.5,0.345,29,Diabetic,Diabetic
+661,6,147,80,0,0,29.5,0.178,50,Diabetic,Diabetic
+662,1,128,98,41,58,32.0,1.321,33,Diabetic,Diabetic
+663,0,123,72,0,0,36.3,0.258,52,Diabetic,Diabetic
+664,8,120,0,0,0,30.0,0.183,38,Diabetic,Diabetic
+665,4,146,92,0,0,31.2,0.539,61,Diabetic,Diabetic
+666,3,173,84,33,474,35.7,0.258,22,Diabetic,Diabetic
+667,7,100,0,0,0,30.0,0.484,32,Diabetic,Diabetic
+668,15,136,70,32,110,37.1,0.153,43,Diabetic,Diabetic
+669,10,129,62,36,0,41.2,0.441,38,Diabetic,Diabetic
+670,4,171,72,0,0,43.6,0.479,26,Diabetic,Diabetic
+671,13,158,114,0,0,42.3,0.257,44,Diabetic,Diabetic
+672,5,137,108,0,0,48.8,0.227,37,Diabetic,Diabetic
+673,9,165,88,0,0,30.4,0.302,49,Diabetic,Diabetic
+674,9,102,76,37,0,32.9,0.665,46,Diabetic,Diabetic
+675,1,181,64,30,180,34.1,0.328,38,Diabetic,Diabetic
+676,7,184,84,33,0,35.5,0.355,41,Diabetic,Diabetic
+677,4,111,72,47,207,37.1,1.39,56,Diabetic,Diabetic
+678,8,196,76,29,280,37.5,0.605,57,Diabetic,Diabetic
+679,2,146,70,38,360,28.0,0.337,29,Diabetic,Diabetic
+680,0,131,0,0,0,43.2,0.27,26,Diabetic,Diabetic
+681,1,173,74,0,0,36.8,0.088,38,Diabetic,Diabetic
+682,5,116,74,29,0,32.3,0.66,35,Diabetic,Diabetic
+683,2,128,78,37,182,43.3,1.224,31,Diabetic,Diabetic
+684,3,169,74,19,125,29.9,0.268,31,Diabetic,Diabetic
+685,2,146,0,0,0,27.5,0.24,28,Diabetic,Diabetic
+686,1,181,64,30,180,34.1,0.328,38,Diabetic,Diabetic
+687,5,168,64,0,0,32.9,0.135,41,Diabetic,Diabetic
+688,3,163,70,18,105,31.6,0.268,28,Diabetic,Diabetic
+689,5,116,74,29,0,32.3,0.66,35,Diabetic,Diabetic
+690,8,100,74,40,215,39.4,0.661,43,Diabetic,Diabetic
+691,5,187,76,27,207,43.6,1.034,53,Diabetic,Diabetic
+692,1,117,88,24,145,34.5,0.403,40,Diabetic,Diabetic
+693,11,143,94,33,146,36.6,0.254,51,Diabetic,Diabetic
+694,10,168,74,0,0,38.0,0.537,34,Diabetic,Diabetic
+695,2,146,0,0,0,27.5,0.24,28,Diabetic,Diabetic
+696,5,109,62,41,129,35.8,0.514,25,Diabetic,Diabetic
+697,9,164,78,0,0,32.8,0.148,45,Diabetic,Diabetic
+698,9,164,84,21,0,30.8,0.831,32,Diabetic,Diabetic
+699,6,124,72,0,0,27.6,0.368,29,Diabetic,Diabetic
+700,7,147,76,0,0,39.4,0.257,43,Diabetic,Diabetic
+701,3,182,74,0,0,30.5,0.345,29,Diabetic,Diabetic
+702,6,147,80,0,0,29.5,0.178,50,Diabetic,Diabetic
+703,11,135,0,0,0,52.3,0.578,40,Diabetic,Diabetic
+704,9,145,88,34,165,30.3,0.771,53,Diabetic,Diabetic
+705,8,179,72,42,130,32.7,0.719,36,Diabetic,Diabetic
+706,2,102,86,36,120,45.5,0.127,23,Diabetic,Diabetic
+707,5,97,76,27,0,35.6,0.378,52,Diabetic,Diabetic
+708,3,128,72,25,190,32.4,0.549,27,Diabetic,Diabetic
+709,3,158,76,36,245,31.6,0.851,28,Diabetic,Diabetic
+710,4,171,72,0,0,43.6,0.479,26,Diabetic,Diabetic
+711,4,117,62,12,0,29.7,0.38,30,Diabetic,Diabetic
+712,2,108,80,0,0,27.0,0.259,52,Diabetic,Diabetic
+713,0,180,78,63,14,59.4,2.42,25,Diabetic,Diabetic
+714,3,170,64,37,225,34.5,0.356,30,Diabetic,Diabetic
+715,5,97,76,27,0,35.6,0.378,52,Diabetic,Diabetic
+716,11,111,84,40,0,46.8,0.925,45,Diabetic,Diabetic
+717,1,128,88,39,110,36.5,1.057,37,Diabetic,Diabetic
+718,3,132,80,0,0,34.4,0.402,44,Diabetic,Diabetic
+719,1,189,60,23,846,30.1,0.398,59,Diabetic,Diabetic
+720,10,168,74,0,0,38.0,0.537,34,Diabetic,Diabetic
+721,6,102,82,0,0,30.8,0.18,36,Diabetic,Diabetic
+722,3,182,74,0,0,30.5,0.345,29,Diabetic,Diabetic
+723,13,126,90,0,0,43.4,0.583,42,Diabetic,Diabetic
+724,6,124,72,0,0,27.6,0.368,29,Diabetic,Diabetic
+725,11,111,84,40,0,46.8,0.925,45,Diabetic,Diabetic
+726,0,131,0,0,0,43.2,0.27,26,Diabetic,Diabetic
+727,2,90,68,42,0,38.2,0.503,27,Diabetic,Diabetic
+728,0,131,66,40,0,34.3,0.196,22,Diabetic,Diabetic
+729,8,188,78,0,0,47.9,0.137,43,Diabetic,Diabetic
+730,7,196,90,0,0,39.8,0.451,41,Diabetic,Diabetic
+731,17,163,72,41,114,40.9,0.817,47,Diabetic,Diabetic
+732,0,113,76,0,0,33.3,0.278,23,Diabetic,Diabetic
+733,7,181,84,21,192,35.9,0.586,51,Diabetic,Diabetic
+734,12,84,72,31,0,29.7,0.297,46,Diabetic,Diabetic
+735,5,187,76,27,207,43.6,1.034,53,Diabetic,Diabetic
+736,3,129,64,29,115,26.4,0.219,28,Diabetic,Diabetic
+737,8,188,78,0,0,47.9,0.137,43,Diabetic,Diabetic
+738,0,179,90,27,0,44.1,0.686,23,Diabetic,Diabetic
+739,7,114,64,0,0,27.4,0.732,34,Diabetic,Diabetic
+740,10,108,66,0,0,32.4,0.272,42,Diabetic,Diabetic
+741,3,132,80,0,0,34.4,0.402,44,Diabetic,Diabetic
