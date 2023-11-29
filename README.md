@@ -52,5 +52,5 @@ What steps did you take in your attempts to increase model performance?
 
 
 ### Tableau Pages:
-Please follow the link below to our Tableau Public page for our Random Forest Model: 
+Please follow the link to our Tableau Public page for our Random Forest Model: 
 <a href="https://public.tableau.com/app/profile/jared.sletto/viz/RF_Diabetes_Tablea/PredictingDiabetes">Predicting Diabetes</a>
