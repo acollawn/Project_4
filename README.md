@@ -48,3 +48,9 @@ What steps did you take in your attempts to increase model performance?
 * Our model achieved an accuracy score of 1.0, recall of 1.0, precision of 1.0, and f1-score of 1.0.
 * The three most important features from our dataset, according to the feature_importances_, are 1. glucose 2. BMI, 3. Age. 
 * While our model is able to predict with 100% accuracy this is due to the limitation that our sample size is small. Our data is comprised of 768 rows of data (females only) with 8 measurable variables and 1 outcome. We would benefit from inputting a larger dataset with both genders.
+
+
+
+### Tableau Pages:
+Please follow the link below to our Tableau Public page for our Random Forest Model: 
+<a href="https://public.tableau.com/app/profile/jared.sletto/viz/RF_Diabetes_Tablea/PredictingDiabetes">Predicting Diabetes</a>
